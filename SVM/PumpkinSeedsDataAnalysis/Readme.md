@@ -1,11 +1,15 @@
-Introduction:
-This example referes a good dataset of Pumpkin Seeds Feature Study. It helps to understand the classification feature and orientation of seed propeties and its relations.
-Following is the link to Kaggle:
-https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset
+Environment:
+- Dataset
+  This example referes a good dataset of Pumpkin Seeds Feature Study. It helps to understand the classification feature and orientation of seed propeties and its        relations. Following is the link to Kaggle:
+  https://www.kaggle.com/datasets/muratkokludataset/pumpkin-seeds-dataset
+  
+- install python package kaggle
+
+- Code tool VSCode
 
 Steps:
-1. Retrive data from given dataset and cache it in the development environment
-2. Data Analysis and quality of data, statistical features of the data
-3. Standerdize the data and understand the feature of pumpkin seeds
-4. Understanding Principal Component Analysis (PCA) its need
-5. understanding Support Vector Machine (SVM) with different models and study performance and accuracy behavior
+1. Data analysis and quality of data, statistical features of the data (Dataset Online)
+2. Retrive data from given dataset and cache it in the development environment (1cachedataset.py)
+3. Standerdize the data and understand the feature of pumpkin seeds (2featurePCA2D.py)
+4. Understanding Principal Component Analysis (PCA) its need (3featurePCA3D.py)
+5. Understanding Support Vector Machine (SVM) with different models and study performance and accuracy behavior(4svm.py)
