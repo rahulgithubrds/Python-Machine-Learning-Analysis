@@ -5,7 +5,7 @@ Environment:
   
 - install python package kaggle
 
-- Code tool VSCode
+- IDE: VSCode
 
 Steps:
 1. Data analysis and quality of data, statistical features of the data (Dataset Online)
