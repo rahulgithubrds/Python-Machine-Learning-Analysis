@@ -1,5 +1,7 @@
 - The code snippet provided here is basic demonstation of exmaple of a NLP (Natural Language Processing) techniuq called Bag-of-Words.
-
+  
+- Development Enviornment: VSCode Application, Python Virtual Environment with Scikit-Learn and NLTK
+  
 - Key Concepts Explained
   
 1. Bag-of-Words: Represents text as word frequency vectors
